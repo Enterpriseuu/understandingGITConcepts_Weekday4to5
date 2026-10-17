@@ -1,3 +1,6 @@
 Today we are learning the first set 
 We will be understanding the concept of different git commands here
-New modes of operations are being prepared now 
+New modes of operations are being prepared now
+
+Another set of lines of code are added
+another set of lines of code are added 
