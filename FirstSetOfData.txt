@@ -1,3 +1,4 @@
 Today we are learning the first set of git concepts, another set of lines of code we are writng it 
+Today we are learning the first set 
 We will be understanding the concept of different git commands here
 New modes of operations are being prepared now 
